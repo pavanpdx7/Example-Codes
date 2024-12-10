@@ -1,5 +1,4 @@
-// Code your testbench here
-// or browse Examples
+// Example to understand pass by value and pass by reference.
 module swap;
 
   function void swapbyval(int a, int b);
